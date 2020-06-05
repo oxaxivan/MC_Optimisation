@@ -1,0 +1,1406 @@
+Specular   reflectance   : 4.652057%
+Collimated reflectance   : 0.000000%
+Diffusive  reflectance   : 33.399007%
+Collimated transmittance : 0.000000%
+Diffusive  transmittance : 59.923952%
+Absorbed                 : 2.024984%
+For distance 0
+	Collimated reflectance      : 0.145592%
+	Diffusive  reflectance      : 28.820303%
+	Out of sphere reflectance   : 4.433112%
+	Collimated transmittance    : 2.142055%
+	Diffusive  transmittance    : 53.294898%
+	Out of sphere transmittance : 4.486999%
+For distance 0.001
+	Collimated reflectance      : 0.142605%
+	Diffusive  reflectance      : 28.573695%
+	Out of sphere reflectance   : 4.682708%
+	Collimated transmittance    : 2.134037%
+	Diffusive  transmittance    : 53.000754%
+	Out of sphere transmittance : 4.789161%
+For distance 0.002
+	Collimated reflectance      : 0.139602%
+	Diffusive  reflectance      : 27.857986%
+	Out of sphere reflectance   : 5.401419%
+	Collimated transmittance    : 2.125252%
+	Diffusive  transmittance    : 52.024082%
+	Out of sphere transmittance : 5.774618%
+For distance 0.003
+	Collimated reflectance      : 0.137062%
+	Diffusive  reflectance      : 26.525089%
+	Out of sphere reflectance   : 6.736856%
+	Collimated transmittance    : 2.116916%
+	Diffusive  transmittance    : 50.111839%
+	Out of sphere transmittance : 7.695197%
+For distance 0.004
+	Collimated reflectance      : 0.133608%
+	Diffusive  reflectance      : 24.573044%
+	Out of sphere reflectance   : 8.692356%
+	Collimated transmittance    : 2.107649%
+	Diffusive  transmittance    : 46.993011%
+	Out of sphere transmittance : 10.823291%
+For distance 0.005
+	Collimated reflectance      : 0.132029%
+	Diffusive  reflectance      : 22.063478%
+	Out of sphere reflectance   : 11.203500%
+	Collimated transmittance    : 2.099314%
+	Diffusive  transmittance    : 42.651803%
+	Out of sphere transmittance : 15.172835%
+For distance 0.006
+	Collimated reflectance      : 0.129969%
+	Diffusive  reflectance      : 19.227646%
+	Out of sphere reflectance   : 14.041393%
+	Collimated transmittance    : 2.091090%
+	Diffusive  transmittance    : 37.482588%
+	Out of sphere transmittance : 20.350274%
+For distance 0.007
+	Collimated reflectance      : 0.128476%
+	Diffusive  reflectance      : 16.345984%
+	Out of sphere reflectance   : 16.924548%
+	Collimated transmittance    : 2.085014%
+	Diffusive  transmittance    : 32.162744%
+	Out of sphere transmittance : 25.676193%
+For distance 0.008
+	Collimated reflectance      : 0.124935%
+	Diffusive  reflectance      : 13.693427%
+	Out of sphere reflectance   : 19.580646%
+	Collimated transmittance    : 2.077883%
+	Diffusive  transmittance    : 27.300448%
+	Out of sphere transmittance : 30.545620%
+For distance 0.009
+	Collimated reflectance      : 0.122684%
+	Diffusive  reflectance      : 11.453114%
+	Out of sphere reflectance   : 21.823209%
+	Collimated transmittance    : 2.071648%
+	Diffusive  transmittance    : 23.108462%
+	Out of sphere transmittance : 34.743842%
+For distance 0.01
+	Collimated reflectance      : 0.119974%
+	Diffusive  reflectance      : 9.583307%
+	Out of sphere reflectance   : 23.695726%
+	Collimated transmittance    : 2.064205%
+	Diffusive  transmittance    : 19.678337%
+	Out of sphere transmittance : 38.181410%
+For distance 0.011
+	Collimated reflectance      : 0.118004%
+	Diffusive  reflectance      : 8.065114%
+	Out of sphere reflectance   : 25.215890%
+	Collimated transmittance    : 2.057220%
+	Diffusive  transmittance    : 16.868432%
+	Out of sphere transmittance : 40.998299%
+For distance 0.012
+	Collimated reflectance      : 0.115955%
+	Diffusive  reflectance      : 6.850907%
+	Out of sphere reflectance   : 26.432145%
+	Collimated transmittance    : 2.050343%
+	Diffusive  transmittance    : 14.588442%
+	Out of sphere transmittance : 43.285167%
+For distance 0.013
+	Collimated reflectance      : 0.113636%
+	Diffusive  reflectance      : 5.869775%
+	Out of sphere reflectance   : 27.415597%
+	Collimated transmittance    : 2.043144%
+	Diffusive  transmittance    : 12.739229%
+	Out of sphere transmittance : 45.141579%
+For distance 0.014
+	Collimated reflectance      : 0.111377%
+	Diffusive  reflectance      : 5.068994%
+	Out of sphere reflectance   : 28.218636%
+	Collimated transmittance    : 2.037582%
+	Diffusive  transmittance    : 11.199486%
+	Out of sphere transmittance : 46.686884%
+For distance 0.015
+	Collimated reflectance      : 0.108763%
+	Diffusive  reflectance      : 4.421686%
+	Out of sphere reflectance   : 28.868558%
+	Collimated transmittance    : 2.031199%
+	Diffusive  transmittance    : 9.908417%
+	Out of sphere transmittance : 47.984336%
+For distance 0.016
+	Collimated reflectance      : 0.106893%
+	Diffusive  reflectance      : 3.875012%
+	Out of sphere reflectance   : 29.417102%
+	Collimated transmittance    : 2.024792%
+	Diffusive  transmittance    : 8.837818%
+	Out of sphere transmittance : 49.061342%
+For distance 0.017
+	Collimated reflectance      : 0.105126%
+	Diffusive  reflectance      : 3.439508%
+	Out of sphere reflectance   : 29.854373%
+	Collimated transmittance    : 2.019323%
+	Diffusive  transmittance    : 7.910310%
+	Out of sphere transmittance : 49.994319%
+For distance 0.018
+	Collimated reflectance      : 0.102538%
+	Diffusive  reflectance      : 3.072610%
+	Out of sphere reflectance   : 30.223859%
+	Collimated transmittance    : 2.013939%
+	Diffusive  transmittance    : 7.113640%
+	Out of sphere transmittance : 50.796372%
+For distance 0.019
+	Collimated reflectance      : 0.100034%
+	Diffusive  reflectance      : 2.751073%
+	Out of sphere reflectance   : 30.547900%
+	Collimated transmittance    : 2.007804%
+	Diffusive  transmittance    : 6.436787%
+	Out of sphere transmittance : 51.479361%
+For distance 0.02
+	Collimated reflectance      : 0.098348%
+	Diffusive  reflectance      : 2.482838%
+	Out of sphere reflectance   : 30.817821%
+	Collimated transmittance    : 2.001563%
+	Diffusive  transmittance    : 5.852328%
+	Out of sphere transmittance : 52.070061%
+For distance 0.021
+	Collimated reflectance      : 0.097232%
+	Diffusive  reflectance      : 2.249901%
+	Out of sphere reflectance   : 31.051874%
+	Collimated transmittance    : 1.997136%
+	Diffusive  transmittance    : 5.330121%
+	Out of sphere transmittance : 52.596694%
+For distance 0.022
+	Collimated reflectance      : 0.096281%
+	Diffusive  reflectance      : 2.041155%
+	Out of sphere reflectance   : 31.261572%
+	Collimated transmittance    : 1.992620%
+	Diffusive  transmittance    : 4.889903%
+	Out of sphere transmittance : 53.041429%
+For distance 0.023
+	Collimated reflectance      : 0.094600%
+	Diffusive  reflectance      : 1.859860%
+	Out of sphere reflectance   : 31.444547%
+	Collimated transmittance    : 1.987619%
+	Diffusive  transmittance    : 4.507592%
+	Out of sphere transmittance : 53.428741%
+For distance 0.024
+	Collimated reflectance      : 0.093094%
+	Diffusive  reflectance      : 1.709043%
+	Out of sphere reflectance   : 31.596870%
+	Collimated transmittance    : 1.983644%
+	Diffusive  transmittance    : 4.151286%
+	Out of sphere transmittance : 53.789022%
+For distance 0.025
+	Collimated reflectance      : 0.091531%
+	Diffusive  reflectance      : 1.569657%
+	Out of sphere reflectance   : 31.737820%
+	Collimated transmittance    : 1.978374%
+	Diffusive  transmittance    : 3.842899%
+	Out of sphere transmittance : 54.102679%
+For distance 0.026
+	Collimated reflectance      : 0.089109%
+	Diffusive  reflectance      : 1.448256%
+	Out of sphere reflectance   : 31.861642%
+	Collimated transmittance    : 1.973935%
+	Diffusive  transmittance    : 3.556737%
+	Out of sphere transmittance : 54.393279%
+For distance 0.027
+	Collimated reflectance      : 0.087510%
+	Diffusive  reflectance      : 1.343873%
+	Out of sphere reflectance   : 31.967625%
+	Collimated transmittance    : 1.969500%
+	Diffusive  transmittance    : 3.298246%
+	Out of sphere transmittance : 54.656206%
+For distance 0.028
+	Collimated reflectance      : 0.085664%
+	Diffusive  reflectance      : 1.244948%
+	Out of sphere reflectance   : 32.068395%
+	Collimated transmittance    : 1.966001%
+	Diffusive  transmittance    : 3.071772%
+	Out of sphere transmittance : 54.886179%
+For distance 0.029
+	Collimated reflectance      : 0.084459%
+	Diffusive  reflectance      : 1.156354%
+	Out of sphere reflectance   : 32.158195%
+	Collimated transmittance    : 1.962695%
+	Diffusive  transmittance    : 2.871529%
+	Out of sphere transmittance : 55.089728%
+For distance 0.03
+	Collimated reflectance      : 0.083333%
+	Diffusive  reflectance      : 1.071857%
+	Out of sphere reflectance   : 32.243817%
+	Collimated transmittance    : 1.958922%
+	Diffusive  transmittance    : 2.681596%
+	Out of sphere transmittance : 55.283434%
+For distance 0.031
+	Collimated reflectance      : 0.082150%
+	Diffusive  reflectance      : 1.005149%
+	Out of sphere reflectance   : 32.311709%
+	Collimated transmittance    : 1.955334%
+	Diffusive  transmittance    : 2.503857%
+	Out of sphere transmittance : 55.464761%
+For distance 0.032
+	Collimated reflectance      : 0.080853%
+	Diffusive  reflectance      : 0.944690%
+	Out of sphere reflectance   : 32.373464%
+	Collimated transmittance    : 1.951563%
+	Diffusive  transmittance    : 2.353597%
+	Out of sphere transmittance : 55.618792%
+For distance 0.033
+	Collimated reflectance      : 0.079258%
+	Diffusive  reflectance      : 0.892954%
+	Out of sphere reflectance   : 32.426795%
+	Collimated transmittance    : 1.948070%
+	Diffusive  transmittance    : 2.208640%
+	Out of sphere transmittance : 55.767242%
+For distance 0.034
+	Collimated reflectance      : 0.077501%
+	Diffusive  reflectance      : 0.836354%
+	Out of sphere reflectance   : 32.485152%
+	Collimated transmittance    : 1.944588%
+	Diffusive  transmittance    : 2.078193%
+	Out of sphere transmittance : 55.901171%
+For distance 0.035
+	Collimated reflectance      : 0.076122%
+	Diffusive  reflectance      : 0.785040%
+	Out of sphere reflectance   : 32.537845%
+	Collimated transmittance    : 1.940711%
+	Diffusive  transmittance    : 1.956806%
+	Out of sphere transmittance : 56.026435%
+For distance 0.036
+	Collimated reflectance      : 0.074837%
+	Diffusive  reflectance      : 0.740629%
+	Out of sphere reflectance   : 32.583542%
+	Collimated transmittance    : 1.937694%
+	Diffusive  transmittance    : 1.845511%
+	Out of sphere transmittance : 56.140747%
+For distance 0.037
+	Collimated reflectance      : 0.073353%
+	Diffusive  reflectance      : 0.698276%
+	Out of sphere reflectance   : 32.627379%
+	Collimated transmittance    : 1.934485%
+	Diffusive  transmittance    : 1.746439%
+	Out of sphere transmittance : 56.243028%
+For distance 0.038
+	Collimated reflectance      : 0.071951%
+	Diffusive  reflectance      : 0.658626%
+	Out of sphere reflectance   : 32.668431%
+	Collimated transmittance    : 1.931548%
+	Diffusive  transmittance    : 1.650568%
+	Out of sphere transmittance : 56.341836%
+For distance 0.039
+	Collimated reflectance      : 0.071111%
+	Diffusive  reflectance      : 0.623849%
+	Out of sphere reflectance   : 32.704047%
+	Collimated transmittance    : 1.928714%
+	Diffusive  transmittance    : 1.559522%
+	Out of sphere transmittance : 56.435716%
+For distance 0.04
+	Collimated reflectance      : 0.069985%
+	Diffusive  reflectance      : 0.588323%
+	Out of sphere reflectance   : 32.740699%
+	Collimated transmittance    : 1.926342%
+	Diffusive  transmittance    : 1.480277%
+	Out of sphere transmittance : 56.517332%
+For distance 0.041
+	Collimated reflectance      : 0.069419%
+	Diffusive  reflectance      : 0.558767%
+	Out of sphere reflectance   : 32.770821%
+	Collimated transmittance    : 1.922488%
+	Diffusive  transmittance    : 1.406154%
+	Out of sphere transmittance : 56.595309%
+For distance 0.042
+	Collimated reflectance      : 0.067941%
+	Diffusive  reflectance      : 0.532451%
+	Out of sphere reflectance   : 32.798616%
+	Collimated transmittance    : 1.918987%
+	Diffusive  transmittance    : 1.336776%
+	Out of sphere transmittance : 56.668188%
+For distance 0.043
+	Collimated reflectance      : 0.066736%
+	Diffusive  reflectance      : 0.506503%
+	Out of sphere reflectance   : 32.825768%
+	Collimated transmittance    : 1.916471%
+	Diffusive  transmittance    : 1.271061%
+	Out of sphere transmittance : 56.736420%
+For distance 0.044
+	Collimated reflectance      : 0.066259%
+	Diffusive  reflectance      : 0.481760%
+	Out of sphere reflectance   : 32.850988%
+	Collimated transmittance    : 1.914298%
+	Diffusive  transmittance    : 1.211001%
+	Out of sphere transmittance : 56.798653%
+For distance 0.045
+	Collimated reflectance      : 0.064961%
+	Diffusive  reflectance      : 0.457622%
+	Out of sphere reflectance   : 32.876424%
+	Collimated transmittance    : 1.911458%
+	Diffusive  transmittance    : 1.152252%
+	Out of sphere transmittance : 56.860242%
+For distance 0.046
+	Collimated reflectance      : 0.064121%
+	Diffusive  reflectance      : 0.435172%
+	Out of sphere reflectance   : 32.899714%
+	Collimated transmittance    : 1.907575%
+	Diffusive  transmittance    : 1.100112%
+	Out of sphere transmittance : 56.916264%
+For distance 0.047
+	Collimated reflectance      : 0.063012%
+	Diffusive  reflectance      : 0.415959%
+	Out of sphere reflectance   : 32.920036%
+	Collimated transmittance    : 1.904762%
+	Diffusive  transmittance    : 1.053182%
+	Out of sphere transmittance : 56.966009%
+For distance 0.048
+	Collimated reflectance      : 0.061899%
+	Diffusive  reflectance      : 0.396963%
+	Out of sphere reflectance   : 32.940145%
+	Collimated transmittance    : 1.902410%
+	Diffusive  transmittance    : 1.006372%
+	Out of sphere transmittance : 57.015170%
+For distance 0.049
+	Collimated reflectance      : 0.061159%
+	Diffusive  reflectance      : 0.378914%
+	Out of sphere reflectance   : 32.958934%
+	Collimated transmittance    : 1.900331%
+	Diffusive  transmittance    : 0.960987%
+	Out of sphere transmittance : 57.062633%
+For distance 0.05
+	Collimated reflectance      : 0.060033%
+	Diffusive  reflectance      : 0.363055%
+	Out of sphere reflectance   : 32.975919%
+	Collimated transmittance    : 1.898071%
+	Diffusive  transmittance    : 0.921804%
+	Out of sphere transmittance : 57.104077%
+For distance 0.051
+	Collimated reflectance      : 0.059099%
+	Diffusive  reflectance      : 0.347282%
+	Out of sphere reflectance   : 32.992626%
+	Collimated transmittance    : 1.894770%
+	Diffusive  transmittance    : 0.884544%
+	Out of sphere transmittance : 57.144638%
+For distance 0.052
+	Collimated reflectance      : 0.058457%
+	Diffusive  reflectance      : 0.331688%
+	Out of sphere reflectance   : 33.008862%
+	Collimated transmittance    : 1.892410%
+	Diffusive  transmittance    : 0.847194%
+	Out of sphere transmittance : 57.184347%
+For distance 0.053
+	Collimated reflectance      : 0.057813%
+	Diffusive  reflectance      : 0.317715%
+	Out of sphere reflectance   : 33.023479%
+	Collimated transmittance    : 1.890136%
+	Diffusive  transmittance    : 0.811034%
+	Out of sphere transmittance : 57.222782%
+For distance 0.054
+	Collimated reflectance      : 0.057068%
+	Diffusive  reflectance      : 0.306116%
+	Out of sphere reflectance   : 33.035824%
+	Collimated transmittance    : 1.888259%
+	Diffusive  transmittance    : 0.776768%
+	Out of sphere transmittance : 57.258925%
+For distance 0.055
+	Collimated reflectance      : 0.056043%
+	Diffusive  reflectance      : 0.291457%
+	Out of sphere reflectance   : 33.051508%
+	Collimated transmittance    : 1.885987%
+	Diffusive  transmittance    : 0.744631%
+	Out of sphere transmittance : 57.293334%
+For distance 0.056
+	Collimated reflectance      : 0.055766%
+	Diffusive  reflectance      : 0.280419%
+	Out of sphere reflectance   : 33.062822%
+	Collimated transmittance    : 1.883141%
+	Diffusive  transmittance    : 0.715153%
+	Out of sphere transmittance : 57.325657%
+For distance 0.057
+	Collimated reflectance      : 0.054924%
+	Diffusive  reflectance      : 0.271530%
+	Out of sphere reflectance   : 33.072554%
+	Collimated transmittance    : 1.881635%
+	Diffusive  transmittance    : 0.689171%
+	Out of sphere transmittance : 57.353145%
+For distance 0.058
+	Collimated reflectance      : 0.054360%
+	Diffusive  reflectance      : 0.260538%
+	Out of sphere reflectance   : 33.084110%
+	Collimated transmittance    : 1.880420%
+	Diffusive  transmittance    : 0.664210%
+	Out of sphere transmittance : 57.379322%
+For distance 0.059
+	Collimated reflectance      : 0.053803%
+	Diffusive  reflectance      : 0.250751%
+	Out of sphere reflectance   : 33.094454%
+	Collimated transmittance    : 1.878428%
+	Diffusive  transmittance    : 0.637395%
+	Out of sphere transmittance : 57.408128%
+For distance 0.06
+	Collimated reflectance      : 0.053518%
+	Diffusive  reflectance      : 0.240759%
+	Out of sphere reflectance   : 33.104731%
+	Collimated transmittance    : 1.876453%
+	Diffusive  transmittance    : 0.614418%
+	Out of sphere transmittance : 57.433080%
+For distance 0.061
+	Collimated reflectance      : 0.052494%
+	Diffusive  reflectance      : 0.232722%
+	Out of sphere reflectance   : 33.113791%
+	Collimated transmittance    : 1.873900%
+	Diffusive  transmittance    : 0.593044%
+	Out of sphere transmittance : 57.457008%
+For distance 0.062
+	Collimated reflectance      : 0.052205%
+	Diffusive  reflectance      : 0.225058%
+	Out of sphere reflectance   : 33.121745%
+	Collimated transmittance    : 1.872097%
+	Diffusive  transmittance    : 0.571636%
+	Out of sphere transmittance : 57.480219%
+For distance 0.063
+	Collimated reflectance      : 0.050997%
+	Diffusive  reflectance      : 0.217491%
+	Out of sphere reflectance   : 33.130520%
+	Collimated transmittance    : 1.870209%
+	Diffusive  transmittance    : 0.552529%
+	Out of sphere transmittance : 57.501214%
+For distance 0.064
+	Collimated reflectance      : 0.050343%
+	Diffusive  reflectance      : 0.210630%
+	Out of sphere reflectance   : 33.138034%
+	Collimated transmittance    : 1.867294%
+	Diffusive  transmittance    : 0.533616%
+	Out of sphere transmittance : 57.523042%
+For distance 0.065
+	Collimated reflectance      : 0.049240%
+	Diffusive  reflectance      : 0.203166%
+	Out of sphere reflectance   : 33.146602%
+	Collimated transmittance    : 1.866156%
+	Diffusive  transmittance    : 0.516404%
+	Out of sphere transmittance : 57.541392%
+For distance 0.066
+	Collimated reflectance      : 0.048214%
+	Diffusive  reflectance      : 0.196517%
+	Out of sphere reflectance   : 33.154276%
+	Collimated transmittance    : 1.864834%
+	Diffusive  transmittance    : 0.496787%
+	Out of sphere transmittance : 57.562331%
+For distance 0.067
+	Collimated reflectance      : 0.047469%
+	Diffusive  reflectance      : 0.189989%
+	Out of sphere reflectance   : 33.161550%
+	Collimated transmittance    : 1.862867%
+	Diffusive  transmittance    : 0.478736%
+	Out of sphere transmittance : 57.582348%
+For distance 0.068
+	Collimated reflectance      : 0.046729%
+	Diffusive  reflectance      : 0.183566%
+	Out of sphere reflectance   : 33.168713%
+	Collimated transmittance    : 1.860990%
+	Diffusive  transmittance    : 0.463799%
+	Out of sphere transmittance : 57.599162%
+For distance 0.069
+	Collimated reflectance      : 0.045804%
+	Diffusive  reflectance      : 0.177619%
+	Out of sphere reflectance   : 33.175584%
+	Collimated transmittance    : 1.859673%
+	Diffusive  transmittance    : 0.447972%
+	Out of sphere transmittance : 57.616307%
+For distance 0.07
+	Collimated reflectance      : 0.045428%
+	Diffusive  reflectance      : 0.171519%
+	Out of sphere reflectance   : 33.182061%
+	Collimated transmittance    : 1.857877%
+	Diffusive  transmittance    : 0.431866%
+	Out of sphere transmittance : 57.634209%
+For distance 0.071
+	Collimated reflectance      : 0.044598%
+	Diffusive  reflectance      : 0.166743%
+	Out of sphere reflectance   : 33.187666%
+	Collimated transmittance    : 1.856744%
+	Diffusive  transmittance    : 0.418778%
+	Out of sphere transmittance : 57.648429%
+For distance 0.072
+	Collimated reflectance      : 0.044402%
+	Diffusive  reflectance      : 0.160649%
+	Out of sphere reflectance   : 33.193957%
+	Collimated transmittance    : 1.855234%
+	Diffusive  transmittance    : 0.407861%
+	Out of sphere transmittance : 57.660857%
+For distance 0.073
+	Collimated reflectance      : 0.043742%
+	Diffusive  reflectance      : 0.155754%
+	Out of sphere reflectance   : 33.199512%
+	Collimated transmittance    : 1.853334%
+	Diffusive  transmittance    : 0.396634%
+	Out of sphere transmittance : 57.673983%
+For distance 0.074
+	Collimated reflectance      : 0.042908%
+	Diffusive  reflectance      : 0.152144%
+	Out of sphere reflectance   : 33.203956%
+	Collimated transmittance    : 1.851930%
+	Diffusive  transmittance    : 0.383866%
+	Out of sphere transmittance : 57.688155%
+For distance 0.075
+	Collimated reflectance      : 0.041976%
+	Diffusive  reflectance      : 0.148263%
+	Out of sphere reflectance   : 33.208768%
+	Collimated transmittance    : 1.850348%
+	Diffusive  transmittance    : 0.372047%
+	Out of sphere transmittance : 57.701556%
+For distance 0.076
+	Collimated reflectance      : 0.041601%
+	Diffusive  reflectance      : 0.144091%
+	Out of sphere reflectance   : 33.213315%
+	Collimated transmittance    : 1.849036%
+	Diffusive  transmittance    : 0.361513%
+	Out of sphere transmittance : 57.713403%
+For distance 0.077
+	Collimated reflectance      : 0.041133%
+	Diffusive  reflectance      : 0.139532%
+	Out of sphere reflectance   : 33.218342%
+	Collimated transmittance    : 1.847620%
+	Diffusive  transmittance    : 0.348568%
+	Out of sphere transmittance : 57.727764%
+For distance 0.078
+	Collimated reflectance      : 0.040944%
+	Diffusive  reflectance      : 0.135467%
+	Out of sphere reflectance   : 33.222596%
+	Collimated transmittance    : 1.846205%
+	Diffusive  transmittance    : 0.339330%
+	Out of sphere transmittance : 57.738417%
+For distance 0.079
+	Collimated reflectance      : 0.040383%
+	Diffusive  reflectance      : 0.132319%
+	Out of sphere reflectance   : 33.226305%
+	Collimated transmittance    : 1.844887%
+	Diffusive  transmittance    : 0.329161%
+	Out of sphere transmittance : 57.749904%
+For distance 0.08
+	Collimated reflectance      : 0.039653%
+	Diffusive  reflectance      : 0.129619%
+	Out of sphere reflectance   : 33.229735%
+	Collimated transmittance    : 1.843479%
+	Diffusive  transmittance    : 0.319260%
+	Out of sphere transmittance : 57.761213%
+For distance 0.081
+	Collimated reflectance      : 0.039284%
+	Diffusive  reflectance      : 0.125650%
+	Out of sphere reflectance   : 33.234074%
+	Collimated transmittance    : 1.842155%
+	Diffusive  transmittance    : 0.310745%
+	Out of sphere transmittance : 57.771052%
+For distance 0.082
+	Collimated reflectance      : 0.038743%
+	Diffusive  reflectance      : 0.121919%
+	Out of sphere reflectance   : 33.238345%
+	Collimated transmittance    : 1.841117%
+	Diffusive  transmittance    : 0.301627%
+	Out of sphere transmittance : 57.781207%
+For distance 0.083
+	Collimated reflectance      : 0.037710%
+	Diffusive  reflectance      : 0.118326%
+	Out of sphere reflectance   : 33.242971%
+	Collimated transmittance    : 1.839887%
+	Diffusive  transmittance    : 0.293241%
+	Out of sphere transmittance : 57.790824%
+For distance 0.084
+	Collimated reflectance      : 0.037442%
+	Diffusive  reflectance      : 0.114510%
+	Out of sphere reflectance   : 33.247056%
+	Collimated transmittance    : 1.838279%
+	Diffusive  transmittance    : 0.284578%
+	Out of sphere transmittance : 57.801095%
+For distance 0.085
+	Collimated reflectance      : 0.036786%
+	Diffusive  reflectance      : 0.112212%
+	Out of sphere reflectance   : 33.250009%
+	Collimated transmittance    : 1.837152%
+	Diffusive  transmittance    : 0.275554%
+	Out of sphere transmittance : 57.811246%
+For distance 0.086
+	Collimated reflectance      : 0.036509%
+	Diffusive  reflectance      : 0.109051%
+	Out of sphere reflectance   : 33.253447%
+	Collimated transmittance    : 1.835456%
+	Diffusive  transmittance    : 0.268570%
+	Out of sphere transmittance : 57.819925%
+For distance 0.087
+	Collimated reflectance      : 0.036126%
+	Diffusive  reflectance      : 0.106579%
+	Out of sphere reflectance   : 33.256303%
+	Collimated transmittance    : 1.834528%
+	Diffusive  transmittance    : 0.262696%
+	Out of sphere transmittance : 57.826727%
+For distance 0.088
+	Collimated reflectance      : 0.035662%
+	Diffusive  reflectance      : 0.102762%
+	Out of sphere reflectance   : 33.260583%
+	Collimated transmittance    : 1.833210%
+	Diffusive  transmittance    : 0.256070%
+	Out of sphere transmittance : 57.834672%
+For distance 0.089
+	Collimated reflectance      : 0.035469%
+	Diffusive  reflectance      : 0.099424%
+	Out of sphere reflectance   : 33.264114%
+	Collimated transmittance    : 1.831886%
+	Diffusive  transmittance    : 0.250515%
+	Out of sphere transmittance : 57.841551%
+For distance 0.09
+	Collimated reflectance      : 0.034924%
+	Diffusive  reflectance      : 0.096801%
+	Out of sphere reflectance   : 33.267282%
+	Collimated transmittance    : 1.830658%
+	Diffusive  transmittance    : 0.243380%
+	Out of sphere transmittance : 57.849914%
+For distance 0.091
+	Collimated reflectance      : 0.034741%
+	Diffusive  reflectance      : 0.094209%
+	Out of sphere reflectance   : 33.270058%
+	Collimated transmittance    : 1.829337%
+	Diffusive  transmittance    : 0.236703%
+	Out of sphere transmittance : 57.857911%
+For distance 0.092
+	Collimated reflectance      : 0.034272%
+	Diffusive  reflectance      : 0.091995%
+	Out of sphere reflectance   : 33.272741%
+	Collimated transmittance    : 1.828199%
+	Diffusive  transmittance    : 0.230597%
+	Out of sphere transmittance : 57.865156%
+For distance 0.093
+	Collimated reflectance      : 0.034086%
+	Diffusive  reflectance      : 0.089413%
+	Out of sphere reflectance   : 33.275509%
+	Collimated transmittance    : 1.827260%
+	Diffusive  transmittance    : 0.223789%
+	Out of sphere transmittance : 57.872902%
+For distance 0.094
+	Collimated reflectance      : 0.033528%
+	Diffusive  reflectance      : 0.087098%
+	Out of sphere reflectance   : 33.278382%
+	Collimated transmittance    : 1.825942%
+	Diffusive  transmittance    : 0.219084%
+	Out of sphere transmittance : 57.878926%
+For distance 0.095
+	Collimated reflectance      : 0.033528%
+	Diffusive  reflectance      : 0.083939%
+	Out of sphere reflectance   : 33.281541%
+	Collimated transmittance    : 1.824808%
+	Diffusive  transmittance    : 0.213650%
+	Out of sphere transmittance : 57.885494%
+For distance 0.096
+	Collimated reflectance      : 0.033422%
+	Diffusive  reflectance      : 0.081810%
+	Out of sphere reflectance   : 33.283775%
+	Collimated transmittance    : 1.823959%
+	Diffusive  transmittance    : 0.207820%
+	Out of sphere transmittance : 57.892172%
+For distance 0.097
+	Collimated reflectance      : 0.033332%
+	Diffusive  reflectance      : 0.079598%
+	Out of sphere reflectance   : 33.286078%
+	Collimated transmittance    : 1.821893%
+	Diffusive  transmittance    : 0.204053%
+	Out of sphere transmittance : 57.898006%
+For distance 0.098
+	Collimated reflectance      : 0.032486%
+	Diffusive  reflectance      : 0.077492%
+	Out of sphere reflectance   : 33.289029%
+	Collimated transmittance    : 1.820584%
+	Diffusive  transmittance    : 0.199705%
+	Out of sphere transmittance : 57.903663%
+For distance 0.099
+	Collimated reflectance      : 0.032303%
+	Diffusive  reflectance      : 0.074542%
+	Out of sphere reflectance   : 33.292162%
+	Collimated transmittance    : 1.819543%
+	Diffusive  transmittance    : 0.194251%
+	Out of sphere transmittance : 57.910158%
+For distance 0.1
+	Collimated reflectance      : 0.031931%
+	Diffusive  reflectance      : 0.072873%
+	Out of sphere reflectance   : 33.294203%
+	Collimated transmittance    : 1.819170%
+	Diffusive  transmittance    : 0.188205%
+	Out of sphere transmittance : 57.916577%
+For distance 0.101
+	Collimated reflectance      : 0.031654%
+	Diffusive  reflectance      : 0.071584%
+	Out of sphere reflectance   : 33.295769%
+	Collimated transmittance    : 1.817850%
+	Diffusive  transmittance    : 0.184643%
+	Out of sphere transmittance : 57.921459%
+For distance 0.102
+	Collimated reflectance      : 0.031375%
+	Diffusive  reflectance      : 0.070287%
+	Out of sphere reflectance   : 33.297345%
+	Collimated transmittance    : 1.816902%
+	Diffusive  transmittance    : 0.180991%
+	Out of sphere transmittance : 57.926059%
+For distance 0.103
+	Collimated reflectance      : 0.030819%
+	Diffusive  reflectance      : 0.068893%
+	Out of sphere reflectance   : 33.299295%
+	Collimated transmittance    : 1.816234%
+	Diffusive  transmittance    : 0.176562%
+	Out of sphere transmittance : 57.931156%
+For distance 0.104
+	Collimated reflectance      : 0.030544%
+	Diffusive  reflectance      : 0.067297%
+	Out of sphere reflectance   : 33.301167%
+	Collimated transmittance    : 1.815382%
+	Diffusive  transmittance    : 0.173087%
+	Out of sphere transmittance : 57.935483%
+For distance 0.105
+	Collimated reflectance      : 0.030449%
+	Diffusive  reflectance      : 0.065736%
+	Out of sphere reflectance   : 33.302822%
+	Collimated transmittance    : 1.815001%
+	Diffusive  transmittance    : 0.168019%
+	Out of sphere transmittance : 57.940932%
+For distance 0.106
+	Collimated reflectance      : 0.030265%
+	Diffusive  reflectance      : 0.063504%
+	Out of sphere reflectance   : 33.305238%
+	Collimated transmittance    : 1.814245%
+	Diffusive  transmittance    : 0.163980%
+	Out of sphere transmittance : 57.945727%
+For distance 0.107
+	Collimated reflectance      : 0.029720%
+	Diffusive  reflectance      : 0.062094%
+	Out of sphere reflectance   : 33.307194%
+	Collimated transmittance    : 1.813303%
+	Diffusive  transmittance    : 0.160305%
+	Out of sphere transmittance : 57.950344%
+For distance 0.108
+	Collimated reflectance      : 0.029347%
+	Diffusive  reflectance      : 0.060254%
+	Out of sphere reflectance   : 33.309406%
+	Collimated transmittance    : 1.812459%
+	Diffusive  transmittance    : 0.157465%
+	Out of sphere transmittance : 57.954027%
+For distance 0.109
+	Collimated reflectance      : 0.029335%
+	Diffusive  reflectance      : 0.059054%
+	Out of sphere reflectance   : 33.310617%
+	Collimated transmittance    : 1.811796%
+	Diffusive  transmittance    : 0.154730%
+	Out of sphere transmittance : 57.957427%
+For distance 0.11
+	Collimated reflectance      : 0.029155%
+	Diffusive  reflectance      : 0.057833%
+	Out of sphere reflectance   : 33.312019%
+	Collimated transmittance    : 1.810947%
+	Diffusive  transmittance    : 0.151805%
+	Out of sphere transmittance : 57.961200%
+For distance 0.111
+	Collimated reflectance      : 0.028781%
+	Diffusive  reflectance      : 0.057025%
+	Out of sphere reflectance   : 33.313202%
+	Collimated transmittance    : 1.810196%
+	Diffusive  transmittance    : 0.148693%
+	Out of sphere transmittance : 57.965062%
+For distance 0.112
+	Collimated reflectance      : 0.028494%
+	Diffusive  reflectance      : 0.056098%
+	Out of sphere reflectance   : 33.314415%
+	Collimated transmittance    : 1.809628%
+	Diffusive  transmittance    : 0.145491%
+	Out of sphere transmittance : 57.968833%
+For distance 0.113
+	Collimated reflectance      : 0.028224%
+	Diffusive  reflectance      : 0.054599%
+	Out of sphere reflectance   : 33.316185%
+	Collimated transmittance    : 1.809156%
+	Diffusive  transmittance    : 0.142379%
+	Out of sphere transmittance : 57.972416%
+For distance 0.114
+	Collimated reflectance      : 0.027767%
+	Diffusive  reflectance      : 0.053298%
+	Out of sphere reflectance   : 33.317942%
+	Collimated transmittance    : 1.808396%
+	Diffusive  transmittance    : 0.139386%
+	Out of sphere transmittance : 57.976169%
+For distance 0.115
+	Collimated reflectance      : 0.027490%
+	Diffusive  reflectance      : 0.052197%
+	Out of sphere reflectance   : 33.319320%
+	Collimated transmittance    : 1.806603%
+	Diffusive  transmittance    : 0.137119%
+	Out of sphere transmittance : 57.980230%
+For distance 0.116
+	Collimated reflectance      : 0.027024%
+	Diffusive  reflectance      : 0.051286%
+	Out of sphere reflectance   : 33.320698%
+	Collimated transmittance    : 1.806036%
+	Diffusive  transmittance    : 0.134577%
+	Out of sphere transmittance : 57.983338%
+For distance 0.117
+	Collimated reflectance      : 0.026747%
+	Diffusive  reflectance      : 0.050078%
+	Out of sphere reflectance   : 33.322182%
+	Collimated transmittance    : 1.805565%
+	Diffusive  transmittance    : 0.131577%
+	Out of sphere transmittance : 57.986810%
+For distance 0.118
+	Collimated reflectance      : 0.026286%
+	Diffusive  reflectance      : 0.049046%
+	Out of sphere reflectance   : 33.323676%
+	Collimated transmittance    : 1.805088%
+	Diffusive  transmittance    : 0.128932%
+	Out of sphere transmittance : 57.989931%
+For distance 0.119
+	Collimated reflectance      : 0.026193%
+	Diffusive  reflectance      : 0.048117%
+	Out of sphere reflectance   : 33.324697%
+	Collimated transmittance    : 1.804799%
+	Diffusive  transmittance    : 0.126386%
+	Out of sphere transmittance : 57.992767%
+For distance 0.12
+	Collimated reflectance      : 0.026013%
+	Diffusive  reflectance      : 0.046993%
+	Out of sphere reflectance   : 33.326001%
+	Collimated transmittance    : 1.803950%
+	Diffusive  transmittance    : 0.124771%
+	Out of sphere transmittance : 57.995231%
+For distance 0.121
+	Collimated reflectance      : 0.025824%
+	Diffusive  reflectance      : 0.046439%
+	Out of sphere reflectance   : 33.326744%
+	Collimated transmittance    : 1.803383%
+	Diffusive  transmittance    : 0.121237%
+	Out of sphere transmittance : 57.999332%
+For distance 0.122
+	Collimated reflectance      : 0.025542%
+	Diffusive  reflectance      : 0.045244%
+	Out of sphere reflectance   : 33.328221%
+	Collimated transmittance    : 1.802727%
+	Diffusive  transmittance    : 0.118308%
+	Out of sphere transmittance : 58.002917%
+For distance 0.123
+	Collimated reflectance      : 0.025448%
+	Diffusive  reflectance      : 0.044043%
+	Out of sphere reflectance   : 33.329517%
+	Collimated transmittance    : 1.801310%
+	Diffusive  transmittance    : 0.117208%
+	Out of sphere transmittance : 58.005434%
+For distance 0.124
+	Collimated reflectance      : 0.025359%
+	Diffusive  reflectance      : 0.043657%
+	Out of sphere reflectance   : 33.329992%
+	Collimated transmittance    : 1.800840%
+	Diffusive  transmittance    : 0.115416%
+	Out of sphere transmittance : 58.007695%
+For distance 0.125
+	Collimated reflectance      : 0.024898%
+	Diffusive  reflectance      : 0.042728%
+	Out of sphere reflectance   : 33.331381%
+	Collimated transmittance    : 1.800461%
+	Diffusive  transmittance    : 0.112956%
+	Out of sphere transmittance : 58.010535%
+For distance 0.126
+	Collimated reflectance      : 0.024616%
+	Diffusive  reflectance      : 0.042078%
+	Out of sphere reflectance   : 33.332313%
+	Collimated transmittance    : 1.800191%
+	Diffusive  transmittance    : 0.109343%
+	Out of sphere transmittance : 58.014418%
+For distance 0.127
+	Collimated reflectance      : 0.024152%
+	Diffusive  reflectance      : 0.041433%
+	Out of sphere reflectance   : 33.333422%
+	Collimated transmittance    : 1.799624%
+	Diffusive  transmittance    : 0.107096%
+	Out of sphere transmittance : 58.017231%
+For distance 0.128
+	Collimated reflectance      : 0.023964%
+	Diffusive  reflectance      : 0.040418%
+	Out of sphere reflectance   : 33.334626%
+	Collimated transmittance    : 1.799243%
+	Diffusive  transmittance    : 0.105035%
+	Out of sphere transmittance : 58.019673%
+For distance 0.129
+	Collimated reflectance      : 0.023871%
+	Diffusive  reflectance      : 0.039771%
+	Out of sphere reflectance   : 33.335366%
+	Collimated transmittance    : 1.798589%
+	Diffusive  transmittance    : 0.103611%
+	Out of sphere transmittance : 58.021752%
+For distance 0.13
+	Collimated reflectance      : 0.023594%
+	Diffusive  reflectance      : 0.038829%
+	Out of sphere reflectance   : 33.336584%
+	Collimated transmittance    : 1.797925%
+	Diffusive  transmittance    : 0.102015%
+	Out of sphere transmittance : 58.024012%
+For distance 0.131
+	Collimated reflectance      : 0.023501%
+	Diffusive  reflectance      : 0.037987%
+	Out of sphere reflectance   : 33.337519%
+	Collimated transmittance    : 1.797258%
+	Diffusive  transmittance    : 0.099380%
+	Out of sphere transmittance : 58.027313%
+For distance 0.132
+	Collimated reflectance      : 0.023407%
+	Diffusive  reflectance      : 0.037350%
+	Out of sphere reflectance   : 33.338251%
+	Collimated transmittance    : 1.796599%
+	Diffusive  transmittance    : 0.097590%
+	Out of sphere transmittance : 58.029762%
+For distance 0.133
+	Collimated reflectance      : 0.023219%
+	Diffusive  reflectance      : 0.036893%
+	Out of sphere reflectance   : 33.338895%
+	Collimated transmittance    : 1.796037%
+	Diffusive  transmittance    : 0.095878%
+	Out of sphere transmittance : 58.032037%
+For distance 0.134
+	Collimated reflectance      : 0.023131%
+	Diffusive  reflectance      : 0.036143%
+	Out of sphere reflectance   : 33.339733%
+	Collimated transmittance    : 1.795661%
+	Diffusive  transmittance    : 0.094111%
+	Out of sphere transmittance : 58.034180%
+For distance 0.135
+	Collimated reflectance      : 0.022770%
+	Diffusive  reflectance      : 0.035479%
+	Out of sphere reflectance   : 33.340759%
+	Collimated transmittance    : 1.795280%
+	Diffusive  transmittance    : 0.092043%
+	Out of sphere transmittance : 58.036629%
+For distance 0.136
+	Collimated reflectance      : 0.022585%
+	Diffusive  reflectance      : 0.035293%
+	Out of sphere reflectance   : 33.341129%
+	Collimated transmittance    : 1.794434%
+	Diffusive  transmittance    : 0.089955%
+	Out of sphere transmittance : 58.039562%
+For distance 0.137
+	Collimated reflectance      : 0.022585%
+	Diffusive  reflectance      : 0.034452%
+	Out of sphere reflectance   : 33.341971%
+	Collimated transmittance    : 1.793587%
+	Diffusive  transmittance    : 0.089204%
+	Out of sphere transmittance : 58.041161%
+For distance 0.138
+	Collimated reflectance      : 0.022118%
+	Diffusive  reflectance      : 0.034355%
+	Out of sphere reflectance   : 33.342534%
+	Collimated transmittance    : 1.793120%
+	Diffusive  transmittance    : 0.088456%
+	Out of sphere transmittance : 58.042376%
+For distance 0.139
+	Collimated reflectance      : 0.022038%
+	Diffusive  reflectance      : 0.033786%
+	Out of sphere reflectance   : 33.343183%
+	Collimated transmittance    : 1.792741%
+	Diffusive  transmittance    : 0.086936%
+	Out of sphere transmittance : 58.044275%
+For distance 0.14
+	Collimated reflectance      : 0.021851%
+	Diffusive  reflectance      : 0.033601%
+	Out of sphere reflectance   : 33.343556%
+	Collimated transmittance    : 1.792366%
+	Diffusive  transmittance    : 0.085337%
+	Out of sphere transmittance : 58.046249%
+For distance 0.141
+	Collimated reflectance      : 0.021851%
+	Diffusive  reflectance      : 0.032578%
+	Out of sphere reflectance   : 33.344579%
+	Collimated transmittance    : 1.791419%
+	Diffusive  transmittance    : 0.083642%
+	Out of sphere transmittance : 58.048891%
+For distance 0.142
+	Collimated reflectance      : 0.021666%
+	Diffusive  reflectance      : 0.032199%
+	Out of sphere reflectance   : 33.345143%
+	Collimated transmittance    : 1.790678%
+	Diffusive  transmittance    : 0.082490%
+	Out of sphere transmittance : 58.050784%
+For distance 0.143
+	Collimated reflectance      : 0.021479%
+	Diffusive  reflectance      : 0.031177%
+	Out of sphere reflectance   : 33.346351%
+	Collimated transmittance    : 1.790018%
+	Diffusive  transmittance    : 0.081172%
+	Out of sphere transmittance : 58.052762%
+For distance 0.144
+	Collimated reflectance      : 0.021196%
+	Diffusive  reflectance      : 0.030806%
+	Out of sphere reflectance   : 33.347005%
+	Collimated transmittance    : 1.789734%
+	Diffusive  transmittance    : 0.078541%
+	Out of sphere transmittance : 58.055677%
+For distance 0.145
+	Collimated reflectance      : 0.021104%
+	Diffusive  reflectance      : 0.029796%
+	Out of sphere reflectance   : 33.348108%
+	Collimated transmittance    : 1.788689%
+	Diffusive  transmittance    : 0.078448%
+	Out of sphere transmittance : 58.056815%
+For distance 0.146
+	Collimated reflectance      : 0.020834%
+	Diffusive  reflectance      : 0.029040%
+	Out of sphere reflectance   : 33.349134%
+	Collimated transmittance    : 1.787837%
+	Diffusive  transmittance    : 0.077978%
+	Out of sphere transmittance : 58.058137%
+For distance 0.147
+	Collimated reflectance      : 0.020739%
+	Diffusive  reflectance      : 0.028389%
+	Out of sphere reflectance   : 33.349879%
+	Collimated transmittance    : 1.787175%
+	Diffusive  transmittance    : 0.076585%
+	Out of sphere transmittance : 58.060192%
+For distance 0.148
+	Collimated reflectance      : 0.020552%
+	Diffusive  reflectance      : 0.027751%
+	Out of sphere reflectance   : 33.350705%
+	Collimated transmittance    : 1.786513%
+	Diffusive  transmittance    : 0.075281%
+	Out of sphere transmittance : 58.062157%
+For distance 0.149
+	Collimated reflectance      : 0.020273%
+	Diffusive  reflectance      : 0.027105%
+	Out of sphere reflectance   : 33.351630%
+	Collimated transmittance    : 1.785947%
+	Diffusive  transmittance    : 0.074530%
+	Out of sphere transmittance : 58.063475%
+For distance 0.15
+	Collimated reflectance      : 0.019992%
+	Diffusive  reflectance      : 0.026920%
+	Out of sphere reflectance   : 33.352095%
+	Collimated transmittance    : 1.785474%
+	Diffusive  transmittance    : 0.073120%
+	Out of sphere transmittance : 58.065358%
+For distance 0.151
+	Collimated reflectance      : 0.019992%
+	Diffusive  reflectance      : 0.026003%
+	Out of sphere reflectance   : 33.353013%
+	Collimated transmittance    : 1.785379%
+	Diffusive  transmittance    : 0.072083%
+	Out of sphere transmittance : 58.066490%
+For distance 0.152
+	Collimated reflectance      : 0.019711%
+	Diffusive  reflectance      : 0.025909%
+	Out of sphere reflectance   : 33.353387%
+	Collimated transmittance    : 1.785284%
+	Diffusive  transmittance    : 0.070667%
+	Out of sphere transmittance : 58.068001%
+For distance 0.153
+	Collimated reflectance      : 0.019436%
+	Diffusive  reflectance      : 0.025524%
+	Out of sphere reflectance   : 33.354047%
+	Collimated transmittance    : 1.784530%
+	Diffusive  transmittance    : 0.069522%
+	Out of sphere transmittance : 58.069900%
+For distance 0.154
+	Collimated reflectance      : 0.019436%
+	Diffusive  reflectance      : 0.024605%
+	Out of sphere reflectance   : 33.354966%
+	Collimated transmittance    : 1.784249%
+	Diffusive  transmittance    : 0.068398%
+	Out of sphere transmittance : 58.071304%
+For distance 0.155
+	Collimated reflectance      : 0.019344%
+	Diffusive  reflectance      : 0.023766%
+	Out of sphere reflectance   : 33.355898%
+	Collimated transmittance    : 1.783397%
+	Diffusive  transmittance    : 0.067668%
+	Out of sphere transmittance : 58.072886%
+For distance 0.156
+	Collimated reflectance      : 0.019344%
+	Diffusive  reflectance      : 0.023300%
+	Out of sphere reflectance   : 33.356364%
+	Collimated transmittance    : 1.783017%
+	Diffusive  transmittance    : 0.066646%
+	Out of sphere transmittance : 58.074288%
+For distance 0.157
+	Collimated reflectance      : 0.019250%
+	Diffusive  reflectance      : 0.022926%
+	Out of sphere reflectance   : 33.356832%
+	Collimated transmittance    : 1.782637%
+	Diffusive  transmittance    : 0.065522%
+	Out of sphere transmittance : 58.075793%
+For distance 0.158
+	Collimated reflectance      : 0.018965%
+	Diffusive  reflectance      : 0.023021%
+	Out of sphere reflectance   : 33.357021%
+	Collimated transmittance    : 1.782256%
+	Diffusive  transmittance    : 0.064487%
+	Out of sphere transmittance : 58.077208%
+For distance 0.159
+	Collimated reflectance      : 0.018777%
+	Diffusive  reflectance      : 0.022559%
+	Out of sphere reflectance   : 33.357671%
+	Collimated transmittance    : 1.781781%
+	Diffusive  transmittance    : 0.063644%
+	Out of sphere transmittance : 58.078526%
+For distance 0.16
+	Collimated reflectance      : 0.018683%
+	Diffusive  reflectance      : 0.021923%
+	Out of sphere reflectance   : 33.358402%
+	Collimated transmittance    : 1.781408%
+	Diffusive  transmittance    : 0.062609%
+	Out of sphere transmittance : 58.079934%
+For distance 0.161
+	Collimated reflectance      : 0.018590%
+	Diffusive  reflectance      : 0.021647%
+	Out of sphere reflectance   : 33.358770%
+	Collimated transmittance    : 1.780648%
+	Diffusive  transmittance    : 0.062046%
+	Out of sphere transmittance : 58.081258%
+For distance 0.162
+	Collimated reflectance      : 0.018590%
+	Diffusive  reflectance      : 0.021107%
+	Out of sphere reflectance   : 33.359311%
+	Collimated transmittance    : 1.780362%
+	Diffusive  transmittance    : 0.061294%
+	Out of sphere transmittance : 58.082296%
+For distance 0.163
+	Collimated reflectance      : 0.018420%
+	Diffusive  reflectance      : 0.020159%
+	Out of sphere reflectance   : 33.360428%
+	Collimated transmittance    : 1.779798%
+	Diffusive  transmittance    : 0.060628%
+	Out of sphere transmittance : 58.083526%
+For distance 0.164
+	Collimated reflectance      : 0.018232%
+	Diffusive  reflectance      : 0.020080%
+	Out of sphere reflectance   : 33.360696%
+	Collimated transmittance    : 1.779420%
+	Diffusive  transmittance    : 0.059397%
+	Out of sphere transmittance : 58.085134%
+For distance 0.165
+	Collimated reflectance      : 0.018144%
+	Diffusive  reflectance      : 0.019512%
+	Out of sphere reflectance   : 33.361352%
+	Collimated transmittance    : 1.779137%
+	Diffusive  transmittance    : 0.058553%
+	Out of sphere transmittance : 58.086261%
+For distance 0.166
+	Collimated reflectance      : 0.018144%
+	Diffusive  reflectance      : 0.019235%
+	Out of sphere reflectance   : 33.361629%
+	Collimated transmittance    : 1.778857%
+	Diffusive  transmittance    : 0.057138%
+	Out of sphere transmittance : 58.087957%
+For distance 0.167
+	Collimated reflectance      : 0.018049%
+	Diffusive  reflectance      : 0.018867%
+	Out of sphere reflectance   : 33.362091%
+	Collimated transmittance    : 1.778667%
+	Diffusive  transmittance    : 0.056311%
+	Out of sphere transmittance : 58.088974%
+For distance 0.168
+	Collimated reflectance      : 0.017861%
+	Diffusive  reflectance      : 0.018591%
+	Out of sphere reflectance   : 33.362555%
+	Collimated transmittance    : 1.778476%
+	Diffusive  transmittance    : 0.055183%
+	Out of sphere transmittance : 58.090292%
+For distance 0.169
+	Collimated reflectance      : 0.017582%
+	Diffusive  reflectance      : 0.018592%
+	Out of sphere reflectance   : 33.362833%
+	Collimated transmittance    : 1.778005%
+	Diffusive  transmittance    : 0.054330%
+	Out of sphere transmittance : 58.091617%
+For distance 0.17
+	Collimated reflectance      : 0.017488%
+	Diffusive  reflectance      : 0.018141%
+	Out of sphere reflectance   : 33.363378%
+	Collimated transmittance    : 1.777536%
+	Diffusive  transmittance    : 0.053572%
+	Out of sphere transmittance : 58.092845%
+For distance 0.171
+	Collimated reflectance      : 0.017305%
+	Diffusive  reflectance      : 0.018141%
+	Out of sphere reflectance   : 33.363561%
+	Collimated transmittance    : 1.777347%
+	Diffusive  transmittance    : 0.052440%
+	Out of sphere transmittance : 58.094165%
+For distance 0.172
+	Collimated reflectance      : 0.017022%
+	Diffusive  reflectance      : 0.017955%
+	Out of sphere reflectance   : 33.364030%
+	Collimated transmittance    : 1.777252%
+	Diffusive  transmittance    : 0.051396%
+	Out of sphere transmittance : 58.095304%
+For distance 0.173
+	Collimated reflectance      : 0.016930%
+	Diffusive  reflectance      : 0.017680%
+	Out of sphere reflectance   : 33.364398%
+	Collimated transmittance    : 1.776874%
+	Diffusive  transmittance    : 0.050835%
+	Out of sphere transmittance : 58.096242%
+For distance 0.174
+	Collimated reflectance      : 0.016466%
+	Diffusive  reflectance      : 0.017586%
+	Out of sphere reflectance   : 33.364956%
+	Collimated transmittance    : 1.776684%
+	Diffusive  transmittance    : 0.049621%
+	Out of sphere transmittance : 58.097647%
+For distance 0.175
+	Collimated reflectance      : 0.016466%
+	Diffusive  reflectance      : 0.017586%
+	Out of sphere reflectance   : 33.364956%
+	Collimated transmittance    : 1.776304%
+	Diffusive  transmittance    : 0.048867%
+	Out of sphere transmittance : 58.098781%
+For distance 0.176
+	Collimated reflectance      : 0.016280%
+	Diffusive  reflectance      : 0.017583%
+	Out of sphere reflectance   : 33.365145%
+	Collimated transmittance    : 1.775828%
+	Diffusive  transmittance    : 0.048494%
+	Out of sphere transmittance : 58.099630%
+For distance 0.177
+	Collimated reflectance      : 0.016185%
+	Diffusive  reflectance      : 0.017587%
+	Out of sphere reflectance   : 33.365235%
+	Collimated transmittance    : 1.775179%
+	Diffusive  transmittance    : 0.047077%
+	Out of sphere transmittance : 58.101696%
+For distance 0.178
+	Collimated reflectance      : 0.016185%
+	Diffusive  reflectance      : 0.016742%
+	Out of sphere reflectance   : 33.366080%
+	Collimated transmittance    : 1.774894%
+	Diffusive  transmittance    : 0.046053%
+	Out of sphere transmittance : 58.103005%
+For distance 0.179
+	Collimated reflectance      : 0.016185%
+	Diffusive  reflectance      : 0.016559%
+	Out of sphere reflectance   : 33.366263%
+	Collimated transmittance    : 1.774703%
+	Diffusive  transmittance    : 0.045203%
+	Out of sphere transmittance : 58.104045%
+For distance 0.18
+	Collimated reflectance      : 0.016097%
+	Diffusive  reflectance      : 0.016275%
+	Out of sphere reflectance   : 33.366636%
+	Collimated transmittance    : 1.774418%
+	Diffusive  transmittance    : 0.045115%
+	Out of sphere transmittance : 58.104418%
+For distance 0.181
+	Collimated reflectance      : 0.015910%
+	Diffusive  reflectance      : 0.016184%
+	Out of sphere reflectance   : 33.366913%
+	Collimated transmittance    : 1.774324%
+	Diffusive  transmittance    : 0.043889%
+	Out of sphere transmittance : 58.105739%
+For distance 0.182
+	Collimated reflectance      : 0.015910%
+	Diffusive  reflectance      : 0.015905%
+	Out of sphere reflectance   : 33.367192%
+	Collimated transmittance    : 1.773852%
+	Diffusive  transmittance    : 0.043412%
+	Out of sphere transmittance : 58.106687%
+For distance 0.183
+	Collimated reflectance      : 0.015910%
+	Diffusive  reflectance      : 0.015349%
+	Out of sphere reflectance   : 33.367748%
+	Collimated transmittance    : 1.773571%
+	Diffusive  transmittance    : 0.042936%
+	Out of sphere transmittance : 58.107445%
+For distance 0.184
+	Collimated reflectance      : 0.015910%
+	Diffusive  reflectance      : 0.015074%
+	Out of sphere reflectance   : 33.368023%
+	Collimated transmittance    : 1.773381%
+	Diffusive  transmittance    : 0.042274%
+	Out of sphere transmittance : 58.108297%
+For distance 0.185
+	Collimated reflectance      : 0.015910%
+	Diffusive  reflectance      : 0.014891%
+	Out of sphere reflectance   : 33.368206%
+	Collimated transmittance    : 1.773286%
+	Diffusive  transmittance    : 0.041989%
+	Out of sphere transmittance : 58.108677%
+For distance 0.186
+	Collimated reflectance      : 0.015632%
+	Diffusive  reflectance      : 0.014891%
+	Out of sphere reflectance   : 33.368484%
+	Collimated transmittance    : 1.773101%
+	Diffusive  transmittance    : 0.041418%
+	Out of sphere transmittance : 58.109434%
+For distance 0.187
+	Collimated reflectance      : 0.015632%
+	Diffusive  reflectance      : 0.014346%
+	Out of sphere reflectance   : 33.369029%
+	Collimated transmittance    : 1.772723%
+	Diffusive  transmittance    : 0.040853%
+	Out of sphere transmittance : 58.110376%
+For distance 0.188
+	Collimated reflectance      : 0.015539%
+	Diffusive  reflectance      : 0.014067%
+	Out of sphere reflectance   : 33.369402%
+	Collimated transmittance    : 1.772151%
+	Diffusive  transmittance    : 0.040670%
+	Out of sphere transmittance : 58.111130%
+For distance 0.189
+	Collimated reflectance      : 0.015539%
+	Diffusive  reflectance      : 0.013972%
+	Out of sphere reflectance   : 33.369496%
+	Collimated transmittance    : 1.771870%
+	Diffusive  transmittance    : 0.040287%
+	Out of sphere transmittance : 58.111794%
+For distance 0.19
+	Collimated reflectance      : 0.015444%
+	Diffusive  reflectance      : 0.013887%
+	Out of sphere reflectance   : 33.369677%
+	Collimated transmittance    : 1.771587%
+	Diffusive  transmittance    : 0.039722%
+	Out of sphere transmittance : 58.112642%
+For distance 0.191
+	Collimated reflectance      : 0.015257%
+	Diffusive  reflectance      : 0.013699%
+	Out of sphere reflectance   : 33.370051%
+	Collimated transmittance    : 1.771397%
+	Diffusive  transmittance    : 0.039257%
+	Out of sphere transmittance : 58.113299%
+For distance 0.192
+	Collimated reflectance      : 0.015164%
+	Diffusive  reflectance      : 0.013418%
+	Out of sphere reflectance   : 33.370425%
+	Collimated transmittance    : 1.771111%
+	Diffusive  transmittance    : 0.038974%
+	Out of sphere transmittance : 58.113867%
+For distance 0.193
+	Collimated reflectance      : 0.015069%
+	Diffusive  reflectance      : 0.013243%
+	Out of sphere reflectance   : 33.370695%
+	Collimated transmittance    : 1.770921%
+	Diffusive  transmittance    : 0.038692%
+	Out of sphere transmittance : 58.114339%
+For distance 0.194
+	Collimated reflectance      : 0.014976%
+	Diffusive  reflectance      : 0.012880%
+	Out of sphere reflectance   : 33.371152%
+	Collimated transmittance    : 1.770643%
+	Diffusive  transmittance    : 0.038210%
+	Out of sphere transmittance : 58.115099%
+For distance 0.195
+	Collimated reflectance      : 0.014697%
+	Diffusive  reflectance      : 0.012881%
+	Out of sphere reflectance   : 33.371430%
+	Collimated transmittance    : 1.769981%
+	Diffusive  transmittance    : 0.037079%
+	Out of sphere transmittance : 58.116892%
+For distance 0.196
+	Collimated reflectance      : 0.014424%
+	Diffusive  reflectance      : 0.012688%
+	Out of sphere reflectance   : 33.371896%
+	Collimated transmittance    : 1.769703%
+	Diffusive  transmittance    : 0.036790%
+	Out of sphere transmittance : 58.117459%
+For distance 0.197
+	Collimated reflectance      : 0.014147%
+	Diffusive  reflectance      : 0.012688%
+	Out of sphere reflectance   : 33.372173%
+	Collimated transmittance    : 1.769520%
+	Diffusive  transmittance    : 0.036502%
+	Out of sphere transmittance : 58.117930%
+For distance 0.198
+	Collimated reflectance      : 0.014053%
+	Diffusive  reflectance      : 0.012321%
+	Out of sphere reflectance   : 33.372633%
+	Collimated transmittance    : 1.769427%
+	Diffusive  transmittance    : 0.036028%
+	Out of sphere transmittance : 58.118496%
+For distance 0.199
+	Collimated reflectance      : 0.013863%
+	Diffusive  reflectance      : 0.012418%
+	Out of sphere reflectance   : 33.372726%
+	Collimated transmittance    : 1.769239%
+	Diffusive  transmittance    : 0.035837%
+	Out of sphere transmittance : 58.118876%

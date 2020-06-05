@@ -1,0 +1,86 @@
+##################
+# LASER SETTINGS #
+##################
+
+# Laser beam shape - Wired, Circular, Elliptic, Rectangular
+Laser: LaserBeamShape: Circular
+
+# Laser optics - Collimated, Focused
+# For Circular only
+Laser: LaserOptics: Collimated
+
+# Laser beam - Gauss, Uniform
+# For Circular only
+Laser: LaserBeam: Gauss
+
+# Laser caustics caustics(z) = sqrt(a*z^2 + b*z + c)
+# For Circular only
+Laser: Caustics: A: 0
+Laser: Caustics: B: 0
+Laser: Caustics: C: 0
+
+# Laser beam spot size
+# By default SI is used [m]
+Laser: Beam: A: 0 # not used for wired
+Laser: Beam: B: 1.0E-3 # not used for wired and circular
+
+# Laser average power
+# By default SI is used [W]
+Laser: AveragePower: 1
+
+# Laser wavelength
+# By default SI is used [m]
+Laser: Wavelength: 1
+
+###################
+# TISSUE SETTINGS #
+###################
+
+# Tissue Type - Isotropic, MultiLayerSingleStage, MultiLayerMultiStage
+Tissue: Type: MultiLayerSingleStage
+
+# Tissue layers
+Tissue: Layers: 1
+
+# Tissue below refraction index
+Tissue: RefractionIndex: Below: 1 # [-]
+
+# Tissue layer 1 properties
+Tissue: Layer: 1 TissueType: SingleStage
+Tissue: Layer: 1 Length: 1.1E-3 # By default SI is used [m] 
+Tissue: Layer: 1 Absorption: 4 # By default SI is used [m^(-1)]
+Tissue: Layer: 1 Scattering: 3600 # By default SI is used [m^(-1)]
+Tissue: Layer: 1 Anisotropy: 0.78 # [-]
+Tissue: Layer: 1 RefractionIndex: 1.55 # [-]
+
+# Tissue above refraction index
+Tissue: RefractionIndex: Above: 1 # [-]
+
+########################
+# MONTE CARLO SETTINGS #
+########################
+
+# Monte Carlo threads
+MonteCarlo: Threads: 1
+
+# Monte Carlo photons
+MonteCarlo: Photons: 1000000
+
+# Monte Carlo collimated angle critical cosine
+MonteCarlo: CollimatedAngleCriticalCosine: 1
+
+###################
+# SIMULATION TASK #
+###################
+
+# Simulation task - ReflectanceAndTransmittance, IntegratingSpheres
+SimulationTask: Task: IntegratingSpheres
+
+# Integrating spheres sweep distance start
+SimulationTask: IntegratingSpheres: SweepDistanceStart: 0
+
+# Integrating spheres sweep distance stop
+SimulationTask: IntegratingSpheres: SweepDistanceStop: 20E-2
+
+# Integrating spheres sweep distance step
+SimulationTask: IntegratingSpheres: SweepDistanceStep: 1E-3
