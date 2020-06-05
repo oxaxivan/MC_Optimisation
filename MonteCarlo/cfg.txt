@@ -1,0 +1,23 @@
+# To verify that software and config are compatible
+ProgramVersion: 1.0.0
+
+# Settings file
+SettingsFile: settings.txt
+
+# Output file
+OutputFile: output.txt
+
+# Safe operations - Yes, No
+SafeOperations: Yes
+
+# Double Menj [s/photon/thread]
+#2.3E-7
+
+# Float Menj [s/photon/thread]
+#1.95E-7
+
+# Double My [s/photon/thread]
+#---
+
+# Float My [s/photon/thread]
+#---
